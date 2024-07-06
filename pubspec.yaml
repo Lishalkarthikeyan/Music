@@ -27,12 +27,3 @@ flutter:
   assets:
     - assets/
 
-  fonts:
-    - family: Montserrat
-      fonts:
-        - asset: fonts/Montserrat-Bold.ttf
-          weight: 700
-    - family: Roboto
-      fonts:
-        - asset: fonts/Roboto-Bold.ttf
-          weight: 700
